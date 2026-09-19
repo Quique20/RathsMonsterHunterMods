@@ -1,0 +1,27 @@
+{
+    "cold_drink": true,
+    "consume": false,
+    "enable": true,
+    "free_meal": false,
+    "hot_drink": true,
+    "item": {
+        "112": false,
+        "113": false,
+        "125": true,
+        "126": true,
+        "127": false,
+        "128": false,
+        "163": true,
+        "164": false,
+        "167": false,
+        "168": false,
+        "169": true,
+        "170": false,
+        "171": false,
+        "172": true,
+        "175": true,
+        "176": true
+    },
+    "prolonger": true,
+    "time": 45
+}
